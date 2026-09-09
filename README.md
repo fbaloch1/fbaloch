@@ -17,8 +17,11 @@ I'm currently working on the Medline operations Problems Navigator.
 <ul></ul>
 
 <li>GTC 3070ti</li>li>
+
 <li>AMD Ryzen 9 5600</li>
+
 <li>32 27" monitors</li>li>
+
 <ul/>
 
 
