@@ -10,8 +10,8 @@ I'm currently working on the Medline operations Problems Navigator.
 
 
 **Reach me @**
-+[My Gmail_account]-(mail:fbaloch@icstars.org
++[My Gmail_account]-(mailto:fbaloch@icstars.org
 
-+[My Linkedin Profile](https:www.linkedin.com/fbaloch
++[My Linkedin Profile] (https://www.linkedin.com/in/faiza-baloch-212814435/)
 
 +[my fax] (fax:567890781
