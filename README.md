@@ -1,6 +1,8 @@
 <div>
 <img src="https://github.com/fbaloch.png" widthc="150"/>
-<h1>hi, my name is Faiza Baloch
+  
+<h1>Hi, my name is Faiza Baloch
+  
 </div>
 I'm a Cycle 60 intern at i.c.stars.
 
