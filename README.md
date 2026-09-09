@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 <img src="https://github.com/fbaloch.png" widthc="150"/>
  
 <h1>Hi, my name is Faiza Baloch
