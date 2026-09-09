@@ -8,3 +8,8 @@ I'm currently working on the Medline operations Problems Navigator.
 
 **My Goal This Cycle: ** I want to see the interns blossom during the next 12 weeks.
 
+
+**Reach me @**
++[My Gmail_account]-(mailto:fbaloch@icstars.org
++[My Linkedin Profile](www.linkedin.com/fbaloch
++[my fax] (fax:567890781
