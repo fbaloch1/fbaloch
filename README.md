@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/fbaloch.png" widthc="120"/> 
+<img src="https://github.com/fbaloch.png" widthc="100"/> 
  
 <h1>Hi, my name is Faiza Baloch
   
