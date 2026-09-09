@@ -11,5 +11,7 @@ I'm currently working on the Medline operations Problems Navigator.
 
 **Reach me @**
 +[My Gmail_account]-(mailto:fbaloch@icstars.org
+
 +[My Linkedin Profile](www.linkedin.com/fbaloch
+
 +[my fax] (fax:567890781
